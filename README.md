@@ -1,2 +1,3 @@
 # drum-sounds
-for drim machine fcc project
+for drum machine fcc project
+a collection of .wav sounds to be chosen from 
